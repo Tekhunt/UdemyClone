@@ -484,7 +484,8 @@
         
         .go-to-cart {
             font-family: sf pro display, -apple-system, BlinkMacSystemFont, Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
-            font-size: 0.95em;
+            font-size: 1.1em;
+            font-weight: bold;
             background-color: red;
             width: 200px;
             height: 50px;
