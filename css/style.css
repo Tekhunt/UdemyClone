@@ -559,3 +559,152 @@
         .amt {
             padding: 5px 5px;
         }
+        /* 2nd session goes here */
+        
+        .course-b1 {
+            background-image: url(../images/b1.jpg);
+        }
+        
+        .course-b2 {
+            background-image: url(../images/b2.jpg);
+        }
+        
+        .course-b3 {
+            background-image: url(../images/b3.jpg);
+        }
+        
+        .course-b4 {
+            background-image: url(../images/b4.jpg);
+        }
+        
+        .course-b5 {
+            background-image: url(../images/b5.jpg);
+        }
+        /*3rd session goes here */
+        
+        .course-c1 {
+            background-image: url(../images/c1.jpg);
+        }
+        
+        .course-c2 {
+            background-image: url(../images/c2.jpg);
+        }
+        
+        .course-c3 {
+            background-image: url(../images/c3.jpg);
+        }
+        
+        .course-c4 {
+            background-image: url(../images/c4.jpg);
+        }
+        
+        .course-c5 {
+            background-image: url(../images/c5.jpg);
+        }
+        /* session 4*/
+        
+        .flex-btn {
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+        
+        .flex-btn .course-btn {
+            font-family: sf pro display, -apple-system, BlinkMacSystemFont, Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+            font-weight: 600;
+            font-size: 1.2rem;
+            background-color: #fbfbf8;
+            height: 55px;
+            width: 253px;
+            text-align: center;
+            border-radius: 4px;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            -ms-border-radius: 4px;
+            -o-border-radius: 4px;
+            border: 1px solid #dcdacb;
+            color: #0f7c90;
+        }
+        
+        .under {
+            padding-top: 7px;
+        }
+        
+        .flex-btn a {
+            text-decoration: none;
+        }
+        /* Fouth session */
+        
+        .course-d1 {
+            background-image: url(../images/d1.jpg);
+        }
+        
+        .course-d2 {
+            background-image: url(../images/d2.jpg);
+        }
+        
+        .course-d3 {
+            background-image: url(../images/d3.jpg);
+        }
+        
+        .course-d4 {
+            background-image: url(../images/d4.jpg);
+        }
+        
+        .course-d5 {
+            background-image: url(../images/d5.jpg);
+        }
+        
+        .a4 {
+            font-family: sf pro display, -apple-system, BlinkMacSystemFont, Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+            padding-top: 40px;
+        }
+        /* section 5 */
+        
+        .course-e1 {
+            background-image: url(../images/e1.jpg);
+        }
+        
+        .course-e2 {
+            background-image: url(../images/e2.jpg);
+        }
+        
+        .course-e3 {
+            background-image: url(../images/e3.jpg);
+        }
+        
+        .course-e4 {
+            background-image: url(../images/e4.jpg);
+        }
+        
+        .course-e5 {
+            background-image: url(../images/e5.jpg);
+        }
+        /* section 6 */
+        
+        .course-f1 {
+            background-image: url(../images/f1.jpg);
+        }
+        
+        .course-f2 {
+            background-image: url(../images/f2.jpg);
+        }
+        
+        .course-f3 {
+            background-image: url(../images/f3.jpg);
+        }
+        
+        .course-f4 {
+            background-image: url(../images/f4.jpg);
+        }
+        
+        .course-f5 {
+            background-image: url(../images/f5.jpg);
+        }
+        /* section 7 */
+        
+        .a7 {
+            font-family: sf pro display, -apple-system, BlinkMacSystemFont, Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+            padding-top: 27px;
+        }
