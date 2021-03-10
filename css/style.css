@@ -969,6 +969,7 @@
                 }
                 
                 .logo1 {
+                    margin-bottom: 10px;
                     width: 60px;
                     height: 50px;
                     padding-right: 13px;
@@ -976,6 +977,7 @@
                 }
                 
                 .logo2 {
+                    margin-bottom: 12px;
                     width: 70px;
                     height: 55px;
                     padding-right: 13px;
@@ -1020,4 +1022,75 @@
                 .logos {
                     padding-top: 0px;
                     padding-bottom: 0px;
+                }
+                /*filnally*/
+                
+                .footer-div ul li {
+                    font-family: sf pro text, -apple-system, BlinkMacSystemFont, Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+                    font-weight: 400;
+                    line-height: 1;
+                    font-size: 0.95rem;
+                    padding-bottom: 15px;
+                    color: #0f7c90;
+                }
+                
+                .big-button {
+                    display: flex;
+                    justify-content: space-around;
+                    align-items: center;
+                    text-align: center;
+                    font-family: sf pro display, -apple-system, BlinkMacSystemFont, Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+                    font-weight: 650;
+                    line-height: 1;
+                    letter-spacing: -.02rem;
+                    font-size: 1.1rem;
+                    width: 200px;
+                    height: 3rem;
+                    cursor: pointer;
+                    border-radius: 4px;
+                    margin-top: 30px;
+                    margin-top: 0px;
+                    opacity: 0.7;
+                }
+                
+                .footer-div {
+                    height: 175px;
+                    margin-top: 30px;
+                }
+                
+                .big-button .light-blue {
+                    color: #094c59;
+                }
+                
+                .third-item {
+                    margin-right: 30%;
+                }
+                
+                .footer-div ul .hide {
+                    visibility: hidden;
+                }
+                
+                .last-content span {
+                    font-family: sf pro text, -apple-system, BlinkMacSystemFont, Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+                    font-weight: 350;
+                    line-height: 0.8;
+                    font-size: 0.95rem;
+                }
+                
+                .last-content {
+                    margin-top: 60px;
+                    display: flex;
+                    justify-content: space-between;
+                }
+                
+                .set {
+                    height: 30px;
+                }
+                
+                .up-rule {
+                    margin-bottom: 30px;
+                }
+                
+                .down-rule {
+                    margin-top: 40px;
                 }
