@@ -100,8 +100,16 @@
                     justify-content: space-between;
                 }
                 
+                .img-container {
+                    background-image: url(../images/smile.jpg);
+                    width: 60%;
+                    background-repeat: no-repeat;
+                    background-attachment: scroll;
+                    background-position: 100% 52%;
+                }
+                
                 .aside {
-                    width: 35%;
+                    width: 30%;
                     box-shadow: 0px 0px 3px #888;
                     margin-top: 3%;
                     margin-left: 3%;
@@ -1051,6 +1059,9 @@
                     margin-top: 30px;
                     margin-top: 0px;
                     opacity: 0.7;
+                    background-color: white;
+                    border-color: gray;
+                    border-width: thin;
                 }
                 
                 .footer-div {
